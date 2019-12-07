@@ -1,0 +1,16 @@
+E:\Pravin Learning\asp.netcoreapp\web app\web app\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Pravin Learning\asp.netcoreapp\web app\web app\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Pravin Learning\asp.netcoreapp\web app\web app\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Pravin Learning\asp.netcoreapp\web app\web app\bin\Debug\netcoreapp2.1\web app.deps.json
+E:\Pravin Learning\asp.netcoreapp\web app\web app\bin\Debug\netcoreapp2.1\web app.runtimeconfig.json
+E:\Pravin Learning\asp.netcoreapp\web app\web app\bin\Debug\netcoreapp2.1\web app.runtimeconfig.dev.json
+E:\Pravin Learning\asp.netcoreapp\web app\web app\bin\Debug\netcoreapp2.1\web app.dll
+E:\Pravin Learning\asp.netcoreapp\web app\web app\bin\Debug\netcoreapp2.1\web app.pdb
+E:\Pravin Learning\asp.netcoreapp\web app\web app\obj\Debug\netcoreapp2.1\web app.csprojAssemblyReference.cache
+E:\Pravin Learning\asp.netcoreapp\web app\web app\obj\Debug\netcoreapp2.1\web app.RazorAssemblyInfo.cache
+E:\Pravin Learning\asp.netcoreapp\web app\web app\obj\Debug\netcoreapp2.1\web app.RazorAssemblyInfo.cs
+E:\Pravin Learning\asp.netcoreapp\web app\web app\obj\Debug\netcoreapp2.1\web app.AssemblyInfoInputs.cache
+E:\Pravin Learning\asp.netcoreapp\web app\web app\obj\Debug\netcoreapp2.1\web app.AssemblyInfo.cs
+E:\Pravin Learning\asp.netcoreapp\web app\web app\obj\Debug\netcoreapp2.1\web app.RazorTargetAssemblyInfo.cache
+E:\Pravin Learning\asp.netcoreapp\web app\web app\obj\Debug\netcoreapp2.1\web app.dll
+E:\Pravin Learning\asp.netcoreapp\web app\web app\obj\Debug\netcoreapp2.1\web app.pdb
